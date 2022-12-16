@@ -23,4 +23,7 @@ The Happiness Score’s sweet spot is that we can successfully measure a countri
 
 ## See additional details in [Tableau](https://public.tableau.com/app/profile/yash.nema/viz/AnalyzingWorldHappinessReport/MainStory)
 
+![image](https://user-images.githubusercontent.com/49282511/208032855-663087ce-9834-4613-8b6a-1fb597b203d3.png)
+
+
 Thanks for my project partners, Yash Nema and Simran Bhatia.
